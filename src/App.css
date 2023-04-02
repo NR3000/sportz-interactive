@@ -44,10 +44,10 @@
   margin: 0px auto;
 }
 
-.table-header{
-  position: sticky;
-  width: 100%;
-  top: 0;
-  height: 30px;
-  max-height: 60px;
+.alert-msg{
+  position: relative;
+  display: block;
+  font-size: 24px;
+  height: 100%;
+  text-align: center;
 }
